@@ -1,0 +1,6 @@
+{
+  "name": "ToDo — Smart Daily Routine & Task Planner",
+  "description": "A complete daily life management system to plan, schedule, and manage your daily routine, tasks, meals, sleep schedule, and weekly calendar in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
